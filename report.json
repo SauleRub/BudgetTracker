@@ -1,0 +1,12 @@
+{
+    "total": 4985.63,
+    "average": 99.71,
+    "spending_by_category": {
+        "Food": 1034.52,
+        "Utilities": 489.71,
+        "Healthcare": 636.44,
+        "Other": 759.02,
+        "Transport": 936.51,
+        "Entertainment": 1129.43
+    }
+}

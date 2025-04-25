@@ -1,0 +1,10 @@
+Total spent: $4985.63
+Average per expense: $99.71
+
+Spending by category:
+ - Food: $1034.52
+ - Utilities: $489.71
+ - Healthcare: $636.44
+ - Other: $759.02
+ - Transport: $936.51
+ - Entertainment: $1129.43
