@@ -5,6 +5,7 @@
 **BudgetTracker** is a smart Python tool that helps users track and analyze their personal spending.  
 It loads mock data from JSON, summarizes expenses, breaks them down by category, filters by month, and exports detailed reports — all directly from the terminal.
 
+🔗 [🌐 View Project Demo on Loom](https://www.loom.com/share/be67ee4bfb7d432d88bc3bfeb4c392d4)
 ---
 
 ## 🧠 Core Features
